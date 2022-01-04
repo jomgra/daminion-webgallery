@@ -9,3 +9,5 @@ Web gallery for Daminion (daminion.net)
 2. open daminion.html in your webbrowser
 3. follow instructions
 
+
+https://forum.daminion.net/topic/2338-addons-web-gallery/
